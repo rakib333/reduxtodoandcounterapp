@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(229, 230, 231);
+}
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+/* counter component style    */
+.card-title1 {
+    text-shadow: 1px 3px 3px rgba(128, 0, 0, 0.77);
+}
+
+
+/* todo component style  */
+
